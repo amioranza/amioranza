@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+### My stack is:
+
+☕ Coffee
+📦 Containers
+☕ Coffee
+⚙️ Infrastructure
+☕ Coffee
+📄 Code
+☕ Coffee
+🚢 Kuberenetes
+☕ Coffee
+🐧 Linux
+☕ Coffee
+🖥️ Unix
+☕ Coffee ...
+
 <!--
 **amioranza/amioranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
