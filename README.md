@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Connect with me
+
+<a href="https://twitter.com/a_mioranza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-%40a__mioranza-blue?style=flat&logo=twitter&logoColor=white"></a>
+<a href="https://github.com/amioranza" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-amioranza-black?style=flat&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alexandre-mioranza/" target="_blank"><img alt="linkedIn" src="https://img.shields.io/badge/-amioranza-blue?style=flat&logo=linkedin&logoColor=white"></a>
+
+
 ### My stack is:
 
 ☕ Coffee
